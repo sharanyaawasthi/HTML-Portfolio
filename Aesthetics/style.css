@@ -1,12 +1,46 @@
-html{background-image: repeating-radial-gradient(circle,#F0D9E7,#B4AEE8,#FDB9FC,#B4AEE8) ;}
-h1{
+html{
+    background-image: repeating-radial-gradient(circle,#C3FF93,#FDFFAB,#9BE8D8,#A8DF8E) ;
+}
+
+.title1{
     font-family: "Cookie", cursive;
     font-weight: bolder;
     font-style: normal;
     font-size: 200px;
-    color: #FFB6D9;
+    color: #79E0EE;
     text-align: center;
-    text-shadow: 5px 8px 2px #F11A7B, 7px 7px 10px #6528F7, 8px 8px 20px #A076F9, 10px 10px 40px #D7BBF5, 12px 12px 80px #EDE4FF;
-    
+    text-shadow: 5px 8px 2px #5AB2FF, 9px 16px 8px #FDDE55, 13px 24px 10px #88D66C, 10px 10px 40px #FF0000, 12px 12px 100px #FFA62F;
+    margin-top: 0px;
+    margin-bottom: 0px;
   }
+
+h2{
+    text-align: center;
+}
+
+.subheading{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 70px;
+    color:#39A7FF;
+    text-shadow: 6px 6px 5px #FF9843, 8px 8px 20px greenyellow;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    -webkit-text-stroke-color: rgb(3, 5, 38);
+    -webkit-text-stroke-width:0.2px;
+}
+
+.line{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 70px;
+    color:#39A7FF;
+    text-shadow: 6px 6px 5px #FDFFAB, 8px 8px 20px greenyellow;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+}
   
