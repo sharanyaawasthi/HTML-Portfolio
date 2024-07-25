@@ -1,0 +1,12 @@
+html{background-image: repeating-radial-gradient(circle,#F0D9E7,#B4AEE8,#FDB9FC,#B4AEE8) ;}
+h1{
+    font-family: "Cookie", cursive;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 200px;
+    color: #FFB6D9;
+    text-align: center;
+    text-shadow: 5px 8px 2px #F11A7B, 7px 7px 10px #6528F7, 8px 8px 20px #A076F9, 10px 10px 40px #D7BBF5, 12px 12px 80px #EDE4FF;
+    
+  }
+  
